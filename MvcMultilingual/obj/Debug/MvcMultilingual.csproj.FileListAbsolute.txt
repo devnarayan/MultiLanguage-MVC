@@ -76,3 +76,40 @@ C:\Users\Dev-pc\Downloads\DotNet_Awesome_MvcMultilingual\MvcMultilingual\MvcMult
 C:\Users\Dev-pc\Downloads\DotNet_Awesome_MvcMultilingual\MvcMultilingual\MvcMultilingual\obj\Debug\es\MvcMultilingual.resources.dll
 C:\Users\Dev-pc\Downloads\DotNet_Awesome_MvcMultilingual\MvcMultilingual\MvcMultilingual\obj\Debug\MvcMultilingual.dll
 C:\Users\Dev-pc\Downloads\DotNet_Awesome_MvcMultilingual\MvcMultilingual\MvcMultilingual\obj\Debug\MvcMultilingual.pdb
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\MvcMultilingual.dll.config
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\MvcMultilingual.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\MvcMultilingual.pdb
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\bn\MvcMultilingual.resources.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\es\MvcMultilingual.resources.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\Antlr3.Runtime.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\EntityFramework.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\Newtonsoft.Json.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Net.Http.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Net.Http.WebRequest.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.Mvc.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.Optimization.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.Providers.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.Razor.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.WebPages.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\WebGrease.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\EntityFramework.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\Newtonsoft.Json.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Net.Http.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Net.Http.WebRequest.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.Mvc.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.Razor.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.WebPages.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\MvcMultilingual.csprojResolveAssemblyReference.cache
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\MvcMultilingual.Resource.resources
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\MvcMultilingual.Resource.bn.resources
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\MvcMultilingual.Resource.es.resources
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\MvcMultilingual.csproj.GenerateResource.Cache
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\bn\MvcMultilingual.resources.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\es\MvcMultilingual.resources.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\MvcMultilingual.dll
+E:\Projects\Milti Language MVC\MultiLanguage-MVC\MvcMultilingual\obj\Debug\MvcMultilingual.pdb
